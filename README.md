@@ -16,7 +16,7 @@ When you have completed this Lab, you will understand how to:
 
 ## Flow
   
-![architecture](doc/source/images/architecture-lab3.png)
+![architecture](doc/source/images/architecture-ibm.png)
 
 ## Pre-requisites
 
