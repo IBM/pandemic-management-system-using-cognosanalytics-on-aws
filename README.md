@@ -1,2 +1,2 @@
-# pandemic-management-system-using-cognosanalytic-on-aws
+# pandemic-management-system-using-cognosanalytics-on-aws
 lab 3
